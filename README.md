@@ -33,9 +33,9 @@
 
 本書中所有標註為《重編國語辭典修訂版》之部分，乃中華民國教育部（Ministry of Education, R.O.C.）依「創用 CC－姓名標示－禁止改作 臺灣 3.0 版授權條款」釋出，受國際著作權公約與《中華民國著作權法》保護。
 
-《重編國語辭典修訂本》網址：https://dict.revised.moe.edu.tw/
-《重編國語辭典修訂本》公眾授權使用說明：https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/reviseddict_10312.pdf
-授權條款：https://creativecommons.org/licenses/by-nd/3.0/tw/  
+- 《重編國語辭典修訂本》網址：https://dict.revised.moe.edu.tw/
+- 《重編國語辭典修訂本》公眾授權使用說明：https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/reviseddict_10312.pdf
+- 授權條款：https://creativecommons.org/licenses/by-nd/3.0/tw/  
 
 其側邊之英譯，乃由本書作者依辭典原文自行翻譯。
 
@@ -43,19 +43,19 @@
 
 本書所引用之《說文》部分，來源於中華民國教育部《異體字字典》，出自漢．許慎《說文解字》，屬公有領域。
 
-《異體字字典》網址：https://dict.variants.moe.edu.tw/
+- 《異體字字典》網址：https://dict.variants.moe.edu.tw/
 
 ---
 
 本書所有「六書」部分，出自中華民國政府出資設立之中華文化總會（原中華文化復興運動推行委員會）所建「中華語文知識庫」，版權均屬中華文化總會或其合作單位所有。
 
-中華語文知識庫網址：https://www.chinese-linguipedia.org/
+- 中華語文知識庫網址：https://www.chinese-linguipedia.org/
 
 ---
 
 本書所用之小篆字型，屬公有領域，其矢量圖取自維基共享資源，且矢量圖之作者亦已明確放棄一切著作權。
 
-维基共享资源網址：https://commons.wikimedia.org/
+- 维基共享资源網址：https://commons.wikimedia.org/
 
 ---
 
