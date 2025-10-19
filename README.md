@@ -23,6 +23,8 @@
 
 凡有志研究國學者，皆可據此試讀，並賜以批評、指正，或參與編寫工作。
 
+第一冊：https://github.com/TakumiBC/classical-chinese-reader/blob/main/%E7%AC%AC%E4%B8%80%E5%86%8A.md
+
 ## 版權
 
 本書之編制、體例，乃參照錢穆所擬《無師自通中國文言自修讀本之編輯計劃書》之構想，該文收錄於《中國文學論叢》。
