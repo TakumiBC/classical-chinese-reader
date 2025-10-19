@@ -1,0 +1,23 @@
+name: 舉誤與建議
+description: 提出勘誤、補充或建議。
+title: "【舉誤建議】"
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        吳承泳閣下臺鑒：久違  
+        叔度，逼嗇復萌。近維弟研讀《文言自修讀本》之稿，有一二疑義及微見，謹錄於下，以備參酌。
+  - type: textarea
+    id: maintext
+    attributes:
+      label: 【正文】
+      description: 請於此詳述問題或建議之所在，並附相關依據或例證。
+      placeholder: 例：「第一冊第一課『中』字六書應改為指事，所據典為……」
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        專此即請  
+        研安。  
