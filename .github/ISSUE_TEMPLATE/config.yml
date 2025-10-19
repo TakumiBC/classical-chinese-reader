@@ -1,5 +1,12 @@
 blank_issues_enabled: false
-contact_links:
-  - name: 「文言自修讀本」主頁
-    url: https://github.com/TakumiBC/classical-chinese-reader
-    about: 返回本書主頁以閱覽項目說明。
+issue_templates:
+  - name: 舉誤與建議
+    description: 提出勘誤、補充或建議。
+    title: "【舉誤建議】"
+    labels: ["suggestion"]
+    file: suggestions.md
+  - name: 請益與討論
+    description: 提出疑義或研討。
+    title: "【請益討論】"
+    labels: ["discussion"]
+    file: discussion.md
