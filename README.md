@@ -23,7 +23,7 @@
 
 凡有志研究國學者，皆可據此試讀，並賜以批評、指正，或參與編寫工作。
 
-第一冊：https://github.com/TakumiBC/classical-chinese-reader/blob/main/%E7%AC%AC%E4%B8%80%E5%86%8A.md
+第一冊：https://github.com/TakumiBC/classical-chinese-reader/blob/main/volume_1.md
 
 ## 版權
 
